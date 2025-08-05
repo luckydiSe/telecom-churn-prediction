@@ -60,7 +60,3 @@ All datasets were merged on `customerID` using a left join.
 `pandas` • `numpy` • `matplotlib` • `seaborn` • `scikit-learn` • `CatBoost` • `LightGBM` • `XGBoost` • `EDA` • `Feature Engineering` • `AUC-ROC`
 
 ---
-
-## Contact
-
-For questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME).
